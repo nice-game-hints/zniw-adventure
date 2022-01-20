@@ -16,7 +16,7 @@ No, but the solution involves something you'd make a raft with!
 Like the logs that you tie together to make a raft! Have a look around for logs.
 
 ## Tell me where to find the first log.
-In an area south of the [crocodile that you sent packing.](crod.md)
+In an area south of the [crocodile that you sent packing.](croc.md)
 
 When you're in this area, the log is close to some white flowers.
 
