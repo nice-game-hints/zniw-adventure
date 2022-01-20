@@ -6,34 +6,7 @@ order: 30
 
 You've been told to make a backpack twice now - so how do you do it?
 
-# Blimey indeed. Where should I start?
-The sign said Rivenn-na falls was 2km away. We should be trying to close that distance.
-
-Oh, and don't forget to grab the object of Zniw's desire!
-
-# Object? What object? Where?
-The interesting rock that Zniw was chasing in the cutscene - it's on the ground, right side of the clearing you woke up in.
-
-Note that these pebbles are optional and only used to unlock bonus content in the Extras menu. See if you can find them all by yourself!
-
-# I'll do my best - but for now, how do I get out of this forest?
-There are three possible paths to take (left, middle, and right) - why not do a bit of exploring?
-
-# I have taken the path on the right!
-And what did you see?
-
-# Aww, a sleepy dinosaur!
-He's got wings - maybe he can tell you which way civilisation is?
-
-# OI!! WAKE UP!
-That was quite rude of you. Anyway, this is what the Hesperonychus tells you:
-
-"Do you know how to get to Wajapulka?" ^[It's a long walk, over the river in the northern part of the woods.]
-"Where am I, anyway?" ^[The scattered woods!]
-"How do I get out of this place?" ^[Go to the northern part of the woods and cross the bridge.]
-"You mentioned 'preparing properly'..." ^[Look for rope, food supplies, rocks to start a fire - and make yourself a backpack.]
-
-# How do I make a backpack?
+# What do I need to make a backpack?
 You'll need something big and durable to hold your stuff, and a strap to carry it all on your back.
 
 # Where do I find a strap?

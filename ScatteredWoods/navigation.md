@@ -34,30 +34,7 @@ That was quite rude of you. Anyway, this is what the Hesperonychus tells you:
 "You mentioned 'preparing properly'..." ^[Look for rope, food supplies, rocks to start a fire - and make yourself a backpack.]
 
 # How do I make a backpack?
-Making a backpack would be a good start - see [this guide](backpack.md) for hints on making a backpack.
+Having one would definitely make life easier - see [this guide](backpack.md) for hints on making a backpack.
 
-# 
-
-# Where do I find something big and durable?
-Have you been down the left path yet?
-
-# Yes, but not much here...
-And did you follow it all the way to the left?
-
-# Ah!
-The clue's in the name of one of the things you can interact with here!
-
-## How do I take these durable leaves?
-Assuming you've tried and been met with a kind old turtle, her responses were:
-
-"Is that your place?" ^[Yes, it's her home and humble shop! Just don't even think about swimming in the nearby river.]
-"Can I take these leaves?" ^[Yes! They were just there temporarily.]
-"Do you know how to create a backpack?" ^[She echoes the Hesperonychus' sentiment - something durable to hold items, and a strap to keep it on your back.]
-"About the husband you mentioned..." ^[He's been missing for months after checking on the pterosaurs in the area.]
-
-She also asked you to go on an errand.
-
-# What was the errand?
-You need to collect a pine cone and some white flowers for her. 
-
-See [this guide](errand.md) for help with finding them.
+# What else can I find in the forest?
+The minimap, accessed by clicking the icon in the top right, can show you a general layout of the area.

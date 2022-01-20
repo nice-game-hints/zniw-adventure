@@ -9,9 +9,19 @@ This forest isn't so bad after all - a kindly old turtle gave you some advice an
 # What does she want?
 She wants a pine cone and some white flowers.
 
+# Where do I find the pine cone?
+Do you remember seeing one earlier?
 
-#
+# Nope!
+Pine cones grow on trees - did you get a good look at the trees around the paths?
 
+# It's a forest. There are hundreds of trees.
+That's a fair point. The pine cone was near something close to the ground that may have been distracting you.
 
-# I'll do my best - but for now, how do I get out of this forest?
-There are three possible paths to take (left, middle, and right) - why not do a bit of exploring?
+# Tell me where to find the pine cone.
+It's on a tree close to where you met the Hesperonychus and may have been distracted by the creepy eyes in the bushes.
+
+You'll see it clearly if you keep your eyes on the treeline.
+
+## How do I get the pine cone?
+Zniw is too short to reach it - maybe you can boost your height?
