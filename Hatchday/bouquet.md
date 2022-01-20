@@ -32,4 +32,4 @@ Open your inventory in the top left by holding left click on it.
 From there, release click over the hand icon to 'take' it, and click on the Lambeosaurus to give it to him.
 
 ## My good deed for the day!
-C'mon, you should know by now - no good deed goes [unpunished.](scatteredwoods.md)
+C'mon, you should know by now - no good deed goes [unpunished.](ScatteredWoods/index.md)
