@@ -41,5 +41,8 @@ Something long that could skewer the meat.
 ## Where do I find something like that?
 You'll find a stick in the same place you found the first log - south of the submerged crocodile, near the fruit.
 
-## What do I do with this meat?
-You have it on the end of the stick - so go feed it to Sam!
+## What do I do with this stick?
+It's exactly what you need to get the meat off the big crocodile's tooth! Go use the stick on the meat!
+
+# And what do I do with the meat?
+It's the exact type of snack that Sam wanted - go give it to him!
