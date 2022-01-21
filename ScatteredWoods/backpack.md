@@ -31,6 +31,8 @@ Assuming you've tried to take them and been met with a kind old turtle, her resp
 "Can I take these leaves?" ^[Yes! They were just there temporarily.]
 "Do you know how to create a backpack?" ^[She echoes the Hesperonychus' sentiment - something durable to hold items, and a strap to keep it on your back.]
 
+If the game won't let you take the leaves, try talking to the strange winged dinosaur you saw on the right path.
+
 ## What else did she have to say?
 "About the husband you mentioned..." ^[He's been missing for months after checking on the pterosaurs in the area.]
 
@@ -42,7 +44,7 @@ You need to collect a pine cone and some white flowers for her.
 See [this guide](errand.md) for help with finding them.
 
 # But how do I make the backpack?
-The leaves are still on the front of the house, slightly obscured by the turtle - you can only pick them up if you drop the vine.
+The leaves are still attached to the front of the house, slightly obscured by the turtle - you can only pick them up if you drop the vine.
 
 # How do I drop the vine?
 In the top left, hold left-click and then release over the 'drop' option.

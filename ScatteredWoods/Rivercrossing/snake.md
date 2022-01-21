@@ -3,22 +3,22 @@ title: How to find a snack
 keywords: zniw adventure, how to get rid of crocodile zniw, zniw crocodile bait, zniw cross river
 order: 70
 ---
-You've met Sam the Snake, and had a conversation with him.
+You've met Sam the Snake, and had a sssuper conversation with him.
 
 If you forgot his answers:
-"And who might you be?" ^[Sam the friendly snake, thrown into the river by the Euoplocephalus.]
+"And who might you be?" ^[Sam the friendly snake, accidentally thrown into the river by the Euoplocephalus.]
 "Any idea about that Euoplocephalus?" ^[You could try to pull him out from the other side.]
 "Why didn't you just swim through the river?" ^[He got tired, and might even drown if he tries again - some food would really help.]
 
 Basically, you need to find a snack for him to regain his strength.
 
-# How about fruit?
+# How about fruit? Herbs?
 There was plenty of red fruit growing to the south, but Zniw is too greedy to share fruit.
 
 # How about flowers?
-If you picked the white flowers that were growing near the fruit, then try using them elsewhere.
+If you picked the white flowers that were growing near the fruit, they're actually used to get one of the hidden pebbles.
 
-If you want to know exactly what they're used for - ^[Feed them to the Euoplocephalus for a pebble.]
+If you want to know exactly how to get the hidden pebble - ^[Feed the flowers to the Euoplocephalus to get it as a reward.]
 
 # What do Snakes eat, anyway?
 Meat.
@@ -33,7 +33,7 @@ And you still haven't found any meat?
 Travel far to the right - past the Hesperonychus - to find a new area.
 
 # How do I get the meat?
-You need some kind of external item to get it away from the crocodile's mouth without risking your arms.
+You need a long item to get it away from the crocodile's mouth without risking your arms.
 
 # What do you suggest?
 Something long that could skewer the meat.

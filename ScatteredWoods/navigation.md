@@ -16,6 +16,8 @@ The interesting rock that Zniw was chasing in the cutscene - it's on the right s
 
 Note that these pebbles are optional and only used to unlock bonus content in the Extras menu. See if you can find them all by yourself!
 
+Some pebbles will still be pointed out to you, if they're related to certain items or directly in your path. Most, however, are up to you to find.
+
 # I'll do my best - but for now, how do I get out of this forest?
 There are three possible paths to take (left, middle, and right) - why not do a bit of exploring?
 

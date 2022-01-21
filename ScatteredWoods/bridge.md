@@ -16,7 +16,9 @@ Certainly! Click the question mark to see a picture. ^[ ![Boulder image](Boulder
 In the interaction menu, release your mouse over the magnifying glass icon.
 
 ## What do I do with this red fruit?
-Eat it! There's no real gameplay / puzzle significance to it, and some items are just edible like this.
+Eat it! Eating red fruit like this and then checking the 'story so far' tab (the icon beneath the pause icon on the top-left side of the screen) will tell you how many pebbles are left to find in the area you're in.
+
+Remember that these pebbles don't have a direct gameplay benefit, they just unlock extras like concept art that can be accessed from the extras tab in the main menu.
 
 ## And the cycas cone?
 You can't eat it or really do anything with it - in fact, travelling down the secret path will remove it from your inventory anyway.
