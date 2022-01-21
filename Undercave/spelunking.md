@@ -12,7 +12,7 @@ Most paths are too dark to follow safely for now - why not look for a light sour
 # Where should I look for a light source?
 There's only one direction to progress in for now - walk east until you find the items that you'll need to make a torch.
 
-# Can I have a guide for making the torch!
+# Can I have a guide for making the torch?
 Certainly! Click [here](torch.md) for a guide on creating (and lighting) a torch.
 
 # How do I use the map, again?

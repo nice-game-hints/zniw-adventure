@@ -32,7 +32,7 @@ Prove it.
 ## What are you getting at?
 Extinguish your torch to find the hidden path forward.
 
-Mild spoilers for this area - ^[Get used to it - a few puzzles here are tied to extinguishing and re-lighting your torch in the right contexts.]
+Mild spoilers for this area - ^[Get used to it - most puzzles here rely on extinguishing and re-lighting your torch in the right contexts.]
 
 ## Can I have a navigation guide for this new area?
 Certainly!
