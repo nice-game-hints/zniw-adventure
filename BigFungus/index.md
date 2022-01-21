@@ -1,5 +1,5 @@
 ---
-title: Where to find a hatchday gift
+title: How to navigate the mushroom cave
 keywords: zniw adventure, how to play zniw adventure
 order: 40
 ---
