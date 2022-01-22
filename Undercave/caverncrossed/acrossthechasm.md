@@ -12,6 +12,8 @@ Sadly, no - but you should take the single twig near the chasm to remember your 
 # What do we have here?
 There are a couple paths to travel on here (left and right) - why not have a look around?
 
+If you can't see the path on the right, ^[light your torch.]
+
 # What should I look for on the right path?
 The only thing here is a collectable pebble.
 
@@ -21,7 +23,7 @@ If you want to know how to find it, click the question mark. ^[Extinguish your t
 Something to take with you.
 
 ## What do I take from the left path?
-The small rocks on the left side of the room.
+The tiny pebbles on the left side of the room.
 
 # Is there anything else here...?
 There's more to this room than meets the eye - are you afraid of the dark?

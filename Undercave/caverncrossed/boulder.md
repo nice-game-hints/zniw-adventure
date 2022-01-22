@@ -21,10 +21,12 @@ It seems the stick and boulder are too firm to be jostled by mere rocks. What el
 Mild spoiler - ^[Moving your mouse over everything may reveal the answer.]
 
 # I can't find anything else to throw my rocks at.
-Extinguishing your torch may be a good idea.
+Extinguishing your torch may be a good idea - the glow of the mushrooms has been good at revealing hidden things.
 
 ## Tell me what to throw the rocks at.
-The wall! It's an obscure solution, but throwing the rocks at the wall will weaken it.
+The wall! It's an obscure solution, but throwing the rocks at the wall will weaken it - but you only get the option to throw rocks at the wall when your torch is extinguished.
+
+You can throw rocks at the wall twice, before... well.
 
 # Why can't I hit anything all of a sudden?
 It's hard to throw things in the dark!

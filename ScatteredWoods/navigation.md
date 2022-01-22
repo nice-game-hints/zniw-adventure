@@ -1,5 +1,5 @@
 ---
-title: How to navigate the woods
+title: How to survive in this strange forest
 keywords: zniw adventure, zniw how to play, how to get out of the scattered woods, scattered woods zniw
 order: 10
 ---

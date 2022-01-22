@@ -30,7 +30,7 @@ Dunk the bone in it to get a 'soaked bone!'
 There might be something you overlooked on the ground.
 
 ## What else is in this cave?
-A flat stone (AKA Pyrite) is laying on the right side of the smelly cave.
+A flat stone (AKA Pyrite) is laying on the ground close to the petroleum seep.
 
 # Now what?
 Explore further to the right - this cave is deep!
@@ -67,4 +67,4 @@ You've got everything you need to make the torch!
 ## How do I light the torch?
 Combine the Flint and Pyrite with the Soaked Bone to get a lit torch.
 
-You can now light and extinguish the torch at will, by clicking the torch icon in the top left.
+You can now light and extinguish the torch at will by clicking the torch icon in the top left.
