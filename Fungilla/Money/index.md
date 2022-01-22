@@ -1,7 +1,7 @@
 ---
 title: How to make money
 keywords: zniw adventure, zniw village, zniw money, zniw lost all shells, zniw how to get shells, zniw money exploit
-order: 70
+order: 80
 ---
 
 It seems that not even the dinosaurs could escape the horrors of capitalism - so how do you fill the holes in your pockets?

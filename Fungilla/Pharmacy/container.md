@@ -1,7 +1,7 @@
 ---
 title: Where to find a container
 keywords: zniw adventure, how to reach fungilla, zniw special pass, zniw pharmacy, zniw mushroom sauce
-order: 110
+order: 120
 ---
 
 We have the [three mushrooms](caps.md), and now just need a container to keep the sauce in.

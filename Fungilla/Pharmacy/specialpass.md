@@ -1,7 +1,7 @@
 ---
 title: How to get a special pass for the Pharmacy
 keywords: zniw adventure, how to reach fungilla, zniw special pass, zniw pharmacy
-order: 110
+order: 100
 ---
 
 Speaking to the healer revealed that the pharmacy can only be accessed with a special pass. Where might you find one?

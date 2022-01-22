@@ -1,7 +1,7 @@
 ---
 title: Where to find the three mushrooms
 keywords: zniw adventure, how to reach fungilla, zniw special pass, zniw pharmacy
-order: 100
+order: 110
 ---
 
 Getting into the Residential Wall will require you to distract the guard; thankfully, we now know that the pharmacist can make a hot mushroom sauce that will do exactly that.

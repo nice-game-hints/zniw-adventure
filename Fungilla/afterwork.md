@@ -72,4 +72,4 @@ The healer's house in the west district now has the titular healer in it - go in
 You have a few leads to follow:
 [Curing a shop owner's cold](cold.md)
 [Getting a special pharmacy pass](Pharmacy/specialpass.md)
-[Finding something soft](soft.md)
+[Getting into the pantry](Pantry/index.md)
