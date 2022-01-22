@@ -22,7 +22,7 @@ The healer.
 If these are special passes for special people, you'll have to prove that you're worthy of a pass.
 
 # How do I do that?
-[Helping others](/BigFungus/cold.md) is a good place to start!
+[Helping others](/Fungilla/cold.md) is a good place to start!
 
 ## I have helped someone thanks to that guide; what now?
 Then you've got an empty bowl - wouldn't it be good manners to return it to its owner?

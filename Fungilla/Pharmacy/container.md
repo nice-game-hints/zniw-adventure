@@ -22,7 +22,7 @@ You can find glass bottles for sale in the used wares shop.
 200 shells!
 
 # WHAT?!
-It's a bit steep - but you don't need to buy it right now! In fact, I recommend that you come back here after solving the mystery of the [thief's map.](/BigFungus/AfterCloak/index.md)
+It's a bit steep - but you don't need to buy it right now! In fact, I recommend that you come back here after solving the mystery of the [thief's map.](/Fungilla/AfterCloak/index.md)
 
 # I have the bottle!
 Great! Now you just need to talk to the pharmacist again and tell her that you have everything.
