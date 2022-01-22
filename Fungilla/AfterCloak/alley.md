@@ -1,7 +1,7 @@
 ---
 title: What to do in the back alley
 keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms
-order: 150
+order: 160
 ---
 
 The trash is cleared, and you've reached what SHOULD be the hidden tunnel. Where is it?

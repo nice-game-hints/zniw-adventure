@@ -35,7 +35,7 @@ She is Tra's sister, and can be found in the farmhouse where you talked to her f
 All except one.
 
 ## Surely you don't mean...
-That's right. We're stealing a pillow from the elderly Nothronychus.
+That's right. We're stealing a pillow from her father, an elderly Nothronychus.
 
 # You snooze, you lose!
 You're really bad to the (dinosaur) bone, aren't you? Anyway, it's for a good cause; give it to the Navajodactylus.

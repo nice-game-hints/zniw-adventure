@@ -1,7 +1,7 @@
 ---
 title: What to do with the tunnel's contents
 keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, zniw thief, zniw skull
-order: 160
+order: 170
 ---
 
 Secret tunnel found! What do we have here, and what do we use it for?

@@ -1,6 +1,6 @@
 ---
 title: Where to find the tunnel
-keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms
+keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms, zniw tunnel
 order: 140
 ---
 

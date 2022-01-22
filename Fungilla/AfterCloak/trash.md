@@ -4,7 +4,7 @@ keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with 
 order: 150
 ---
 
-So, we found the hidden path - and it was covered in trash that was blocking the path.
+So, we found the hidden path - and it was blocked by a mound of smelly trash.
 
 # What will I need to clear the path?
 A simple object won't do the job here - maybe someone can help?
@@ -23,7 +23,7 @@ At the lake near the west district, you can find a Pentaceratops who clearly has
 "What are you doing here?" ^[He's waiting for his buddy to strap the barrels onto his back, and has been delivering water like this for five years - he used to clear debris and trash from the paths.]
 
 ## What else did he have to say?
-"Whose shack is it anyway?" ^[An elder turtle's, who usually spends his time fishing.]
+"Whose shack is it anyway?" ^[An elder turtle's, who usually spends his time fishing. If you want to talk to him, you should come back at night.]
 (After telling him about the trash bags) ^[He comes with you to clear them.]
 
 # Hooray!

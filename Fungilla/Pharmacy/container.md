@@ -26,3 +26,5 @@ It's a bit steep - but you don't need to buy it right now! In fact, I recommend 
 
 # I have the bottle!
 Great! Now you just need to talk to the pharmacist again and tell her that you have everything.
+
+This will reward you with the [spicy mushroom sauce.](/Fungilla/spicy.md)

@@ -19,7 +19,7 @@ You may have overlooked someone in the plaza.
 On the northwestern side of the plaza, a Stegoceras is reading a comic book near the fountain.
 
 ## I have talked to the Stegoceras
-Great, then Zniw's wonderful personality has made him throw the comic bok on the ground! Pick it up! 
+Great, then Zniw's wonderful personality has made him throw the comic book on the ground! Pick it up! 
 
 # What do I do with the comic book?
 Give it to the Unescoceratops in the pantry to distract him.

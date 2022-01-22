@@ -1,7 +1,7 @@
 ---
 title: What to do with the feather cloak
 keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms
-order: 130
+order: 140
 ---
 
 If the cloak didn't immediately go into your inventory, you'll need to drop something to make room for it.
