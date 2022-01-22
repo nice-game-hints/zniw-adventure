@@ -12,7 +12,7 @@ If you'd like to see them again, click the question mark. ^[![Symbols image](sym
 As the symbols showed, you should be looking to the south after heading west of the Undercave entrance.
 
 # I've gone south - where to now?
-This path is a bit awkward to navigate - keep trying to go left and you'll eventually make it to the village.
+This path is a bit awkward to navigate - keep trying to go west and you'll eventually make it to the village.
 
 # What can I do in the village?
 You should have a look around - the village is surprisingly big, and there are plenty of paths to explore!

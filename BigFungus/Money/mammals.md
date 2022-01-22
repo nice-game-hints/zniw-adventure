@@ -1,7 +1,7 @@
 ---
 title: How to deal with the mammal nest
-keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms
-order: 60
+keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms, zniw mammal nest, zniw mammal trapping
+order: 80
 ---
 
 Whew, what a large village! You finally managed to land a job, and Tra has sent you into the forest to deal with the mammals that have been ruining the village's food supplies.
@@ -66,6 +66,6 @@ Grab the unconscious mammal and show it to the Unescoceratops!
 # Is there anything else to do here?
 You could try to trap three extra mammals - this is optional, but will get you a pay bonus!
 
-See [this guide](Money/trapping.md) for information on the pay bonus and steps you need to take to trap the mammals.
+See [this guide](trapping.md) for information on the pay bonus and steps you need to take to trap the mammals.
 
 When you're ready to return to Fungilla, speak to the Unescoceratops and tell him that you are done for the day.

@@ -13,16 +13,19 @@ There is one person who might know how to help - Tra, the Nothronychus that intr
 To the market, to get some food.
 
 # Where is the market?
-You should find it with little trouble as you explore the village. It's huge, and you should really explore as much as you can!
+You shouldn't have much trouble finding it as you explore the village. It's huge, and you should really explore as much as you can!
 
 ## Where is Tra?
 She's checking out the food stall that's being run by a friendly Thescelosaurus.
 
 # I have talked to Tra.
-Great - she mentioned possibly getting you a job if you talked to her at the farm later.
+Great - she mentioned possibly getting you a job if you came to talk to her on the farm.
 
 # Where can I find the farm?
-It'll be on the edge of town - try heading west.
+It'll be on the edge of town.
+
+# Which edge?
+Try heading west.
 
 ## I can't seem to find the farm!
 Go west of the market into the west district, and then north into the fields.
@@ -30,4 +33,4 @@ Go west of the market into the west district, and then north into the fields.
 To the far east of the fields, a small bridge over the stream will take you to the farm where you can talk to Tra again.
 
 # What now?
-Talk to her to find out more [about that job.](mammals.md)
+Talk to her to find out more [about that job.](Money/mammals.md)

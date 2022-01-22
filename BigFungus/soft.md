@@ -29,7 +29,7 @@ Do you remember a certain someone whose job it was to create pillows?
 They weren't very good at it - and their father found them annoying.
 
 ## Tell me where to find this bad-at-pillow-making person.
-They're a sister of Tra, and can be found right next to her on the farm.
+She is Tra's sister, and can be found in the farmhouse where you talked to her father.
 
 # But all of these pillows are unfinished!
 All except one.
@@ -42,3 +42,9 @@ You're really bad to the (dinosaur) bone, aren't you? Anyway, it's for a good ca
 
 # Hooray!
 You now have a special pass for the pantry.
+
+# Where is the pantry?
+On the west side of the village, the street northwest of the market. It's being guarded by a Unescoceratops pacing back and forth.
+
+## How do I get in?
+The Unescoceratops will let you in if you show him your pantry pass.

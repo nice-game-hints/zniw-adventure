@@ -1,7 +1,7 @@
 ---
 title: How to complete the extra work
 keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, zniw how to get shells
-order: 90
+order: 100
 ---
 
 If you're eager for extra work (or more likely, extra cash) you can talk to Tra after speaking to her father for extra work.
@@ -20,5 +20,5 @@ Weeds must be pulled up, and to do so you'll need to have the glove selected.
 
 Time is up when the water has run out, and your reward is increased for every plant you water / weed you pull up.
 
-# Can I only water the plants once?
-Nope! This job can be repeated as many times as you want - it's a great source of quick money!
+# Can I water the plants again?
+Yep! This job can be repeated as many times as you want - it's a great source of quick money!

@@ -1,7 +1,7 @@
 ---
 title: How to trap the extra mammals
 keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms
-order: 80
+order: 90
 ---
 
 Working a little harder for extra pay may well be worth your while.

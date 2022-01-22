@@ -4,7 +4,7 @@ keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with 
 order: 90
 ---
 
-In your gallavanting throughout the village, you likely met the Unescoceratops who was suffering from a cold.
+In your gallavanting throughout the village and its open buildings, you likely met the Unescoceratops who was suffering from a cold.
 
 # Colds are usually spread, right?
 That's right - he probably got it from someone, so does anyone else in the village have a cold?
@@ -47,7 +47,7 @@ In the market, go up the stairs to the right of the Troodon and into the used wa
 # He's cured!
 Fantastic! Now you can buy anything you want from his shop.
 
-# notes
-leaving triggered a cutscene with THE THIEF where he wanted to buy Ochre from the troodon
-he got ganked and taken to prison
-took his cloak, not what the dino with the injured wing wanted
+# What now?
+Head outside and [enjoy the show!](AfterCloak/index.md)
+
+If nothing happens, you may wish to explore the village some more (especially around the plaza) and talk to everyone you see.
