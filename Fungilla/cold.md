@@ -50,4 +50,4 @@ Fantastic! Now you can buy anything you want from his shop.
 # What now?
 Head outside and [enjoy the show!](AfterCloak/index.md)
 
-If nothing happens, you may wish to explore the village some more (especially around the plaza) and talk to everyone you see.
+If nothing happened when you went outside, you may wish to explore the village some more (especially around the plaza) and talk to everyone you see.

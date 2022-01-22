@@ -1,7 +1,7 @@
 ---
 title: How to complete the Navajodactylus' request.
 keywords: zniw adventure, how to reach fungilla, zniw help winged dinosaur, zniw soft
-order: 110
+order: 120
 ---
 
 A Navajodactylus that's currently recovering in the Healer's house asked you for something soft to rest on - in return, he promised something 'nifty'.

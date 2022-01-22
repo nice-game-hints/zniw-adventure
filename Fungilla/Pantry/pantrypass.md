@@ -1,7 +1,7 @@
 ---
 title: Where to get a special pass for the Pantry
 keywords: zniw adventure, zniw village, zniw pantry, zniw special pass
-order: 140
+order: 110
 ---
 
 It's well guarded, and you need a special pass to get in. Where would you find a special pantry pass?
