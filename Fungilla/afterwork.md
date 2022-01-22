@@ -1,7 +1,7 @@
 ---
 title: What to do after finishing work
 keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms
-order: 80
+order: 90
 ---
 
 You completed work for the day, and Tra says her father wants to speak to you.

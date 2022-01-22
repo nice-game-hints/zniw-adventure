@@ -1,7 +1,7 @@
 ---
 title: Where to find Tra the Nothronychus
 keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms
-order: 50
+order: 80
 ---
 
 Your not-quite-hard-earned money has been stolen, and the only way in and out of the village has been destroyed. Could this day get any worse?

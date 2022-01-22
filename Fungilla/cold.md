@@ -1,7 +1,7 @@
 ---
 title: How to cure a cold
 keywords: zniw adventure, how to reach fungilla, zniw mushroom cave, games with mushrooms
-order: 90
+order: 100
 ---
 
 In your gallavanting throughout the village and its open buildings, you likely met the Unescoceratops who was suffering from a cold.

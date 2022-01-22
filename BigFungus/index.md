@@ -1,5 +1,5 @@
 ---
-title: How to navigate the mushroom cave
+title: How to navigate the Mushroom Cave
 keywords: zniw adventure, zniw village, how to reach fungilla
 order: 40
 ---
