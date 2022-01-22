@@ -53,9 +53,3 @@ You have a few leads to follow:
 [Curing a shop owner's cold](cold.md)
 [Geting a special pass](specialpass.md)
 [Finding something soft](soft.md)
-
-# notes
-the herbs were 10 shells and mentioned as good for sickness
-ammonites were 20 shells and mentioned as meat
-Mushrooms were only 4 shells each
-berries were only 5 shells each
