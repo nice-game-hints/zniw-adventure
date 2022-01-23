@@ -4,7 +4,7 @@ keywords: zniw adventure, zniw village, how to reach fungilla, zniw apartment pu
 order: 20
 ---
 
-Agu's plan is to re-open the village gate so that nobody will get hurt when you confront the Pterosaur - make your way there!
+Agu's plan is to re-open the village gate so that nobody will get hurt when you confront the Azhdarchid - make your way there!
 
 # What about all the villagers?
 You can talk to them, of course! Just remember that you're supposed to make your way to the main gate.

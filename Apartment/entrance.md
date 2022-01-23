@@ -9,7 +9,7 @@ The home of the enemy! There's no dinosaur-themed live-laugh-love signs, so he M
 # What do we have here?
 Here we have a big bookshelf, and not much else.
 
-# If I were a bond villain...
+# If I were a Bond villain...
 You would probably hide something behind the bookcase, yes.
 
 # What do I do with the bookcase?

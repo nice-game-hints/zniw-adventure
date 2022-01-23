@@ -1,6 +1,6 @@
 ---
 title: How to make a decoy
-keywords: zniw adventure, zniw village, how to reach fungilla, zniw apartment puzzle, zniw apartment puzzles
+keywords: zniw adventure, zniw village, how to reach fungilla, zniw jaw mountain
 order: 20
 ---
 

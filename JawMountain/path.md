@@ -1,10 +1,10 @@
 ---
 title: What you need from the forest
-keywords: zniw adventure, zniw village, zniw decoy, zniw help with pterosaur
+keywords: zniw adventure, zniw village, zniw decoy, zniw help with Azhdarchid
 order: 10
 ---
 
-The Pterosaur is hunting you from above - stick to the shade and gather everything you can find! This guide will talk you through finding every useful item in the area.
+The Azhdarchid is hunting you from above - stick to the shade and gather everything you can find! This guide will talk you through finding every useful item in the area.
 
 # Where can I go?
 From your starting position, your options are limited - any paths around you aren't very obvious, as the trees and bushes grow wild.

@@ -4,7 +4,7 @@ keywords: zniw adventure, zniw village, how to reach fungilla, zniw apartment pu
 order: 40
 ---
 
-You would think that a chief would have a better bed - but we're here to find secrets, not just the decor!
+You would think that a chief would have a better bed - but we're here to find secrets, not comment on the decor!
 
 # What can I do here?
 Nothing, really - but hey, there's an optional pebble here if you know where to look!
