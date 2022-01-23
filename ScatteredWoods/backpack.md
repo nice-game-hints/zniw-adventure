@@ -4,7 +4,7 @@ keywords: zniw adventure, zniw how to play, how to get out of the scattered wood
 order: 20
 ---
 
-A backpack would make life a lot easier - so you should make one!
+A backpack would make life a lot easier - you should make one!
 
 # What do I need to make a backpack?
 You'll need something big and durable to hold your stuff, and a strap to carry it all on your back.
@@ -13,7 +13,7 @@ You'll need something big and durable to hold your stuff, and a strap to carry i
 You may find something useful if you thoroughly explore the area.
 
 ## Tell me where to find a strap.
-In the 'Scattered Woods Turn' (found at the far end of the middle and right paths), you can grab a Vine that will act as a strap.
+In the 'Scattered Woods Turn' (found at the end of the middle and right paths), you can grab a vine that will act as a strap.
 
 # Where do I find something big and durable?
 Have you been down the left path yet?
@@ -29,7 +29,7 @@ Assuming you've tried to take them and been met with a kind old turtle, her resp
 
 "Is that your place?" ^[Yes, it's her home and humble shop! Just don't even think about swimming in the nearby river.]
 "Can I take these leaves?" ^[Yes! They were just there temporarily.]
-"Do you know how to create a backpack?" ^[She echoes the Hesperonychus' sentiment - something durable to hold items, and a strap to keep it on your back.]
+"Do you know how to create a backpack?" ^[She echoes the Hesperonychus' advice - something durable to hold items, and a strap to keep it on your back.]
 
 If the game won't let you take the leaves, try talking to the strange winged dinosaur you saw on the right path.
 
@@ -47,7 +47,7 @@ See [this guide](errand.md) for help with finding them.
 The leaves are still attached to the front of the house, slightly obscured by the turtle - you can only pick them up if you drop the vine.
 
 # How do I drop the vine?
-In the top left, hold left-click and then release over the 'drop' option.
+In the top left, hold left-click on the vine and then release over the 'drop' option.
 
 # Now what?
 You're free to pick up the leaves!
@@ -60,4 +60,4 @@ From there, click on the dropped piece of vine to combine them and get the Small
 Now, get back on track - complete the turtle's [errand!](errand.md)
 
 # But wait, what can I use the backpack for?
-Well, you can now carry five items at once, and combine them from within your inventory.
+You can now carry five items at once, and combine them inside your inventory without having to drop them.

@@ -13,15 +13,15 @@ Well, no, but your head's in the right place!
 No, but the solution involves something you'd make a raft with!
 
 ## Like what?
-Like the logs that you tie together to make a raft! Have a look around for logs.
+Like logs! Look around the area for some.
 
 ## Tell me where to find the first log.
-In an area south of the [crocodile that you sent packing.](croc.md)
+In an area south of the [crocodile that you scared off.](croc.md)
 
 When you're in this area, the log is close to some white flowers.
 
 ## Where is the second log?
-In an area east of the crocodile that you sent packing.
+In an area east of the crocodile that you scared off.
 
 When you're in this area, the log is on the northern side.
 

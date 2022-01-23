@@ -4,18 +4,22 @@ keywords: zniw adventure, how to play zniw adventure
 order: 40
 ---
 
-It's smelly, creepy, and dark - thankfully, we can do something about that last one.
+The cave is smelly, creepy, and dark - thankfully, we can do something about that last one.
 
 # What do I need to make a torch?
-You need something to set on fire, something flammable, something to keep the flame burning, and something to start the fire.
+You will need:
+1) Something to hold the fire
+2) Something flammable
+3) Something to keep the fire burning
+4) Something to start the fire.
 
-# Where do I find something to set on fire?
+# Where do I find something to hold the fire?
 Have you entered the smelly cave?
 
 ## Yep! What do I need from it?
-The bone would be a good start - it'd save you from setting your own arm on fire! 
+Pick up the bone - it will save you from setting your own arm on fire! 
 
-Pick up the bone.
+
 
 # It doesn't seem very flammable...
 Did you find out what was making this part of the cave smelly?

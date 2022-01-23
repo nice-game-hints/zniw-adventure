@@ -24,10 +24,10 @@ When your cursor has lit up green, left click and you'll move to that spot.
 This area is quite small - why not search from left to right?
 
 ## Tell me where to find the wallet.
-You find the wallet behind the merchandise directly next to the bouquet - hold left click on it and release over the magnifying glass icon.
+You will find the wallet behind the merchandise near the bouquet - hold left click on it and release over the magnifying glass icon.
 
 # How do I give the wallet back to the Lambeosaurus?
-Open your inventory in the top left by holding left click on it.
+Your inventory can be found in the top left corner of the screen - because you're holding the wallet, you can hold left-click on it to open the interaction menu.
 
 From there, release click over the hand icon to 'take' it, and click on the Lambeosaurus to give it to him.
 
