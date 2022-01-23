@@ -48,4 +48,4 @@ In the north-east corner of the plaza, very close to the exit into the area with
 You're in a prime position for making some food inedible! Pour some sauce into the Triceratops' food bowl!
 
 # I feel kinda guilty...
-You should! But you have access to a [new area]() now, at least.
+You should! But you have access to a [new area](/ResidentialWall/index.md) now, at least.

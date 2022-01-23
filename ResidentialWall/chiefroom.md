@@ -18,7 +18,7 @@ I'm sorry, but it's true. You have to talk to THAT guy.
 Isn't it awful when people speak ill of others, literally behind their backs?
 
 # Sounds like some real drama.
-And confrontations between people that hate each other usually get quite loud.
+Confrontations between people that hate each other usually get quite loud.
 
 ## Tell me what to do.
 Speak to the busy Orodromeus that was looking for the mammal to cause a confrontation.

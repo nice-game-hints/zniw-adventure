@@ -25,14 +25,3 @@ If you're curious about the furball - ^[Finding it rewards you with an optional 
 
 # What else is over here?
 Head to the left and you'll find additional ['restricted'](chiefroom.md) areas.
-
-# notes
-talked to Steffan by going left
-going right 
-
-"What's behind that door?" ^[The chief's apartment - and he does NOT want to be disturbed today.]
-"Why was the access to the building restricted?" ^[As usual, it's the thief's fault - and the building will remain closed until the investigation is over. It hasn't even started yet, however.]
-"Can't you help your buddy over there?" ^[He's not a friend, he's a slacker! There is definitely some drama here.]
-Capitalised on the drama by talking to the guy.
-that got the chief up and about
-i was invited inside
